@@ -1,5 +1,7 @@
 # Learning Python
 
+*Click on section header to view README*
+
 [1. Getting Started](https://github.com/ndomah1/Learning-Python/blob/main/subpages/1%20Getting%20Started%201b89b8d0fd0d800084affaedb2a486f5.md)
 
 - Anaconda
